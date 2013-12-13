@@ -1,0 +1,15 @@
+<!-- Adding invalid snippet to override unwanted default snippet -->
+<snippet>
+    <content><![CDATA[$1]]></content>
+</snippet>
+
+<!--
+<snippet>
+    <content><![CDATA[function ${1:function_name} (${2:argument}) {
+        ${0:// body...}
+}]]></content>
+    <tabTrigger>fun</tabTrigger>
+    <scope>source.js</scope>
+    <description>Function</description>
+</snippet>
+-->

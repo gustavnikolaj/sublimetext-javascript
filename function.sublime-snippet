@@ -1,0 +1,13 @@
+<!-- Adding invalid snippet to override unwanted default snippet -->
+<snippet>
+    <content><![CDATA[$1]]></content>
+</snippet>
+
+<!--
+<snippet>
+    <content><![CDATA[function($1) {${0:$TM_SELECTED_TEXT}};]]></content>
+    <tabTrigger>f</tabTrigger>
+    <scope>source.js</scope>
+    <description>Anonymous Function</description>
+</snippet>
+-->

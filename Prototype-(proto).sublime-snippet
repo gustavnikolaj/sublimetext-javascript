@@ -1,0 +1,16 @@
+<!-- Adding invalid snippet to override unwanted default snippet -->
+<snippet>
+    <content><![CDATA[$1]]></content>
+</snippet>
+
+<!--
+<snippet>
+    <content><![CDATA[${1:class_name}.prototype.${2:method_name} = function(${3:first_argument}) {
+	${0:// body...}
+};
+]]></content>
+    <tabTrigger>proto</tabTrigger>
+    <scope>source.js</scope>
+    <description>Prototype</description>
+</snippet>
+-->
