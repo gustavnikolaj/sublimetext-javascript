@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[describe('${1:what is it?}', function() {$2});$0]]></content>
+    <content><![CDATA[describe('${1:what is it?}', function () {$2});$0]]></content>
     <tabTrigger>describe</tabTrigger>
     <scope>source.js</scope>
     <description>describe</description>
